@@ -441,12 +441,14 @@
     margin: auto;
     height: 155vh;
     background-color: #F5FBFF;
+    overflow: hidden;
     
 }
 .Departments-header{
     margin-top: 213px;
     margin-bottom: 60px;
     text-align: center;
+     overflow: hidden;
 }
 .Departments-header h1{
     font-size: 40px;
