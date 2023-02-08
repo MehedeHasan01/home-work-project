@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+/*----------- nav-1 ----------*/
 .nav-1{
     display: flex;
     justify-content: space-between;
@@ -140,7 +141,6 @@
     color: #000000;
     width: 7%;
 } 
-
 /*------------ contenar ----------*/
 .contenar{
     width: 100%;
